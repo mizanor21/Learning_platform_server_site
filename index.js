@@ -10,7 +10,7 @@ app.use(cors());
 app.get('/', (req, res) => {
     res.send('API Running!');
 })
-
+// courses part
 app.get('/catagories', (req, res) => {
     res.send(categories);
 })
