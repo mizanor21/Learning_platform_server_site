@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "course-id": "9737a16cd6bec0266606a27ab968b4c223d2e858",
+        "img": "http://dummyimage.com/201x100.png/5fa2dd/ffffff",
+        "title": "Serbia",
+        "details": 2.3385083691
+    },
+    {
+        "id": 2,
+        "course-id": "766d4b303da48e0b85b1de493f01d57e0d1c661e",
+        "img": "http://dummyimage.com/201x100.png/cc0000/ffffff",
+        "title": "France",
+        "details": 0.3111885832
+    },
+    {
+        "id": 3,
+        "course-id": "578f039d205c65bb9c9e807875b78de70a694af5",
+        "img": "http://dummyimage.com/234x100.png/cc0000/ffffff",
+        "title": "France",
+        "details": 0.5305947016
+    },
+    {
+        "id": 4,
+        "course-id": "8b7adb554c3d8b91c01d15e4f9f8d0e27dab6461",
+        "img": "http://dummyimage.com/142x100.png/cc0000/ffffff",
+        "title": "Russia",
+        "details": 1.0371372846
+    },
+    {
+        "id": 5,
+        "course-id": "f1df57c8313bc5154906e650e1af07c2212311e1",
+        "img": "http://dummyimage.com/165x100.png/ff4444/ffffff",
+        "title": "China",
+        "details": 0.3490047108
+    },
+    {
+        "id": 6,
+        "course-id": "88581f06d289242ae7195672fec75234f9326207",
+        "img": "http://dummyimage.com/108x100.png/dddddd/000000",
+        "title": "Argentina",
+        "details": 0.1573479753
+    },
+    {
+        "id": 7,
+        "course-id": "4b4d2d53cca9b167919e580cdec55939e8f2b714",
+        "img": "http://dummyimage.com/105x100.png/5fa2dd/ffffff",
+        "title": "Mongolia",
+        "details": 1.1298309876
+    },
+    {
+        "id": 8,
+        "course-id": "8a852de452c6831d3b5579368bab56506ec629e6",
+        "img": "http://dummyimage.com/123x100.png/ff4444/ffffff",
+        "title": "China",
+        "details": 0.5920955453
+    },
+    {
+        "id": 9,
+        "course-id": "3ba0696d7aa8ba48b15aeaf2365ac0914f84dd37",
+        "img": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
+        "title": "Jamaica",
+        "details": 0.034178115
+    },
+    {
+        "id": 10,
+        "course-id": "19c163d73b17bf73947a9ee0061304e141a5fcf7",
+        "img": "http://dummyimage.com/155x100.png/cc0000/ffffff",
+        "title": "China",
+        "details": 1.1177671063
+    }
+]
