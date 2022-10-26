@@ -8,6 +8,10 @@ app.get('/', (req, res) => {
     res.send('API Running!');
 })
 
+app.get('/catagories', (req, res) => {
+    res.send(categories);
+})
+
 app.listen(port, () => {
     console.log('Category avilable!', port);
 })
