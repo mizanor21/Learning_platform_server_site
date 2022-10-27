@@ -1,58 +1,50 @@
 [
     {
-        "id": 1,
+        "id": "01",
         "course_id": "9737a16cd6bec0266606a27ab968b4c223d2e858",
         "img": "https://i.postimg.cc/FF0PytMM/book8.jpg",
-        "title": "Serbia",
-        "details": 2.3385083691
+        "title": "Learn Mathematics"
     },
     {
         "id": 2,
         "course_id": "766d4b303da48e0b85b1de493f01d57e0d1c661e",
         "img": "https://i.postimg.cc/gJHhgPvJ/book6.jpg",
-        "title": "France",
-        "details": 0.3111885832
+        "title": "Learning NodeJS"
     },
     {
         "id": 3,
         "course_id": "578f039d205c65bb9c9e807875b78de70a694af5",
         "img": "https://i.postimg.cc/fWFz1rBT/book5.jpg",
-        "title": "France",
-        "details": 0.5305947016
+        "title": "What is ISLAM"
     },
     {
         "id": 4,
         "course_id": "8b7adb554c3d8b91c01d15e4f9f8d0e27dab6461",
         "img": "https://i.postimg.cc/L8Qv9mP1/book7.jpg",
-        "title": "Russia",
-        "details": 1.0371372846
+        "title": "History of C#"
     },
     {
         "id": 5,
         "course_id": "f1df57c8313bc5154906e650e1af07c2212311e1",
         "img": "https://i.postimg.cc/wjMpZ9Jr/book4.jpg",
-        "title": "China",
-        "details": 0.3490047108
+        "title": "Reading the novel"
     },
     {
         "id": 6,
         "course_id": "88581f06d289242ae7195672fec75234f9326207",
         "img": "https://i.postimg.cc/W36Ctygr/wp6599912-java-logo-wallpapers.jpg",
-        "title": "Argentina",
-        "details": 0.1573479753
+        "title": "History of JAVA and Learning"
     },
     {
         "id": 7,
         "course_id": "4b4d2d53cca9b167919e580cdec55939e8f2b714",
         "img": "https://i.postimg.cc/Zn57n5Tt/wp3105546-python-wallpapers.png",
-        "title": "Mongolia",
-        "details": 1.1298309876
+        "title": "Python history and learn"
     },
     {
         "id": 8,
         "course_id": "8a852de452c6831d3b5579368bab56506ec629e6",
         "img": "https://i.postimg.cc/FHryQBs8/wp6600166-java-logo-wallpapers.jpg",
-        "title": "China",
-        "details": 0.5920955453
+        "title": "Best JAVA program"
     }
 ]
